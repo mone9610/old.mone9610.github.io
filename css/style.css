@@ -1,0 +1,29 @@
+/* コンテンツの書式設定 */
+body{
+    background-color: #f5f5f5;
+}
+/* フッダーの書式設定 */
+.footer{
+    min-height: 100px;
+    background-color:#000000;
+}
+/* ジャンボトロンの追加書式設定 */
+.jumbotron-extend {
+    min-height: 380px;
+    background-repeat: no-repeat;
+    background:url(../img/header.jpg);
+    background-size:cover;
+}
+/* ジャンボトロンのテキストの追加書式設定 */
+.jumbo-text-extend{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+/* ナビゲーションの追加書式設定 */
+.nav-link-extend {
+    color: #ffffff;
+}
+/* 見出しの追加書式設定 */
+.head-extend {
+    color: #ffffff;
+}
